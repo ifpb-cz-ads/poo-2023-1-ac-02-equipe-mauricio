@@ -30,15 +30,14 @@ public class MeuPrograma2 {
 */
 
 /* QUESTÃO 7
-*/
+
 PUBLIC CLASS MEUPROGRAMA2 {
 
     PUBLIC STATIC VOID MAIN (STRING[] ARGS) {
         SYSTEM.OUT.PRINTLN("MAURICIO");
         SYSTEM.OUT.PRINTLN("FLAMENGO");
     }
-}
-
+}*/
 
 /* QUESTÃO 8
 
